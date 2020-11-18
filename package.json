@@ -18,7 +18,7 @@
   "devDependencies": {
     "fastify": "^2.15.1",
     "request": "^2.81.0",
-    "semantic-release": "^15.13.19",
+    "semantic-release": "^17.2.3",
     "tap": "^14.4.1"
   },
   "dependencies": {
